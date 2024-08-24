@@ -41,22 +41,26 @@
 
 ## Unit 03<br/>
 
--<b> Vectors: Creating and Naming Vectors<br/>
+-<b> Vectors: <br/>
+ > Creating and Naming Vectors<br/>
  > Vector Arithmetic<br/>
  > Vector sub setting,<br/>
  
--<b> Matrices: Creating and Naming Matrices<br/>
+-<b> Matrices: <br/>
+ > Creating and Naming Matrices<br/>
  > Matrix Sub setting<br/>
  > Arrays, Class.<br/>
  
--<b> Factors and Data Frames: Introduction to Factors<br/>
+-<b> Factors and Data Frames: <br/>
+ > Introduction to Factors<br/>
  > Factor Levels, Summarizing a Factor<br/>
  > Ordered Factors, Comparing Ordered Factors<br/>
  > Introduction to Data Frame<br/>
  > subsetting of Data Frames<br/>
  > Extending Data Frames, Sorting Data Frames.<br/>
  
--<b> Lists: Introduction, creating a List<br/>
+-<b> Lists:<br>
+ > creating a List<br/>
  > Creating a Named List<br/>
  > Accessing List Elements<br/>
  > Manipulating List<br/>
