@@ -4,6 +4,8 @@
 
 # Syllabus R22
 
+* Chnage in Unit 05 compared to R20 Syllabus
+
 ## Unit 01<br/>
 
 -<b> Introduction:</b><br/>
@@ -31,6 +33,7 @@
  > Binary Attribute,<br/>
  > Nominal Attributes, Ordinal Attributes<br/>
  > Numeric Attributes, Discrete versus Continuous Attributes<br/>
+ 
 -<b> Basic Statistical Descriptions of Data:<br/>
  > Measuring the Central Tendency: Mean, Median, and Mode<br/>
  > Measuring the Dispersion of Data: Range, Quartiles, Variance, Standard Deviation, and Interquartile Range<br/>
@@ -41,15 +44,18 @@
 -<b> Vectors: Creating and Naming Vectors<br/>
  > Vector Arithmetic<br/>
  > Vector sub setting,<br/>
+ 
 -<b> Matrices: Creating and Naming Matrices<br/>
  > Matrix Sub setting<br/>
  > Arrays, Class.<br/>
+ 
 -<b> Factors and Data Frames: Introduction to Factors<br/>
  > Factor Levels, Summarizing a Factor<br/>
  > Ordered Factors, Comparing Ordered Factors<br/>
  > Introduction to Data Frame<br/>
  > subsetting of Data Frames<br/>
  > Extending Data Frames, Sorting Data Frames.<br/>
+ 
 -<b> Lists: Introduction, creating a List<br/>
  > Creating a Named List<br/>
  > Accessing List Elements<br/>
@@ -65,8 +71,10 @@
  > Logical Operators<br/>
  > Logical Operators and Vectors<br/>
  > Conditional Statements.<br/>
+ 
 -<b> Iterative Programming in R: Introduction<br/>
  > While Loop, For Loop, Looping Over List.<br/>
+ 
 -<b> Functions in R: Introduction<br/>
  > writing a Function in R<br/>
  > Nested Functions, Function Scoping<br/>
@@ -80,7 +88,9 @@
  > Introduction, Pie Chart<br/>
  > Chart Legend, Bar Chart<br/>
  > Box Plot, Histogram<br/>
+ 
 -<b> Line Graph:<br/>
  > Multiple Lines in Line Graph, Scatter Plot.<br/>
+ 
 -<b> Regression: Linear Regression Analysis<br/>
  > Multiple Linear regression<br/>
