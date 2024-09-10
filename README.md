@@ -9,10 +9,10 @@
 ## Unit 01<br/>
 
 -<b> Introduction:</b><br/>
- > Definition of Data Science<br/>
- > Big Data and Data Science hype – and getting past the hype<br/>
- > Datafication<br/>
- > Current landscape of perspectives<br/>
+ > &#9745; Definition of Data Science<br/>
+ > &#9745; Big Data and Data Science hype – and getting past the hype<br/>
+ > &#9745; Datafication<br/>
+ > &#9745; Current landscape of perspectives<br/>
  > Statistical Inference - Populations and samples<br/>
  > Statistical modeling, probability distributions<br/>
  > fitting a model – Over fitting.<br/>
