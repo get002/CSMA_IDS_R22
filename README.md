@@ -13,7 +13,7 @@
  > &#9745; Big Data and Data Science hype – and getting past the hype<br/>
  > &#9745; Datafication<br/>
  > &#9745; Current landscape of perspectives<br/>
- > Statistical Inference - Populations and samples<br/>
+ > &#x2611; Statistical Inference - Populations and samples<br/>
  > Statistical modeling, probability distributions<br/>
  > fitting a model – Over fitting.<br/>
  > Basics of R: Introduction<br/>
