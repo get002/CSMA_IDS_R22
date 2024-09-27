@@ -14,40 +14,40 @@
  > &#9745; Datafication<br/>
  > &#9745; Current landscape of perspectives<br/>
  > &#x2611; Statistical Inference - Populations and samples<br/>
- > Statistical modeling, probability distributions<br/>
- > fitting a model – Over fitting.<br/>
- > Basics of R: Introduction<br/>
- > R-Environment Setup<br/>
- > Programming with R<br/>
- > Basic Data Types.<br/>
+ > &#x2611; Statistical modeling, probability distributions<br/>
+ > &#x2611; fitting a model – Over fitting.<br/>
+ > &#x2611; Basics of R: Introduction<br/>
+ > &#x2611; R-Environment Setup<br/>
+ > &#x2611; Programming with R<br/>
+ > &#x2611; Basic Data Types.<br/>
 
 ## Unit 02<br/>
 
 -<b> Data Types &Statistical Description<br/>
- > Types of Data: Attributes and Measurement<br/>
- > Attribute:<br/>
- > The Type of an Attribute<br/>
- > The Different Types of Attributes<br/>
- > Describing Attributes by the Number of Values<br/>
+ > &#x2611; Types of Data: Attributes and Measurement<br/>
+ > &#x2611; Attribute:<br/>
+ > &#x2611; The Type of an Attribute<br/>
+ > &#x2611; The Different Types of Attributes<br/>
+ > &#x2611; Describing Attributes by the Number of Values<br/>
  > Asymmetric Attributes<br/>
- > Binary Attribute,<br/>
- > Nominal Attributes, Ordinal Attributes<br/>
- > Numeric Attributes, Discrete versus Continuous Attributes<br/>
+ > &#x2611; Binary Attribute,<br/>
+ > &#x2611; Nominal Attributes, Ordinal Attributes<br/>
+ > &#x2611; Numeric Attributes, Discrete versus Continuous Attributes<br/>
  
 -<b> Basic Statistical Descriptions of Data:<br/>
- > Measuring the Central Tendency: Mean, Median, and Mode<br/>
- > Measuring the Dispersion of Data: Range, Quartiles, Variance, Standard Deviation, and Interquartile Range<br/>
+ > &#x2611; Measuring the Central Tendency: Mean, Median, and Mode<br/>
+ > &#x2611; Measuring the Dispersion of Data: Range, Quartiles, Variance, Standard Deviation, and Interquartile Range<br/>
  > Graphic Displays of Basic Statistical Descriptions of Data.<br/>
 
 ## Unit 03<br/>
 
 -<b> Vectors: <br/>
- > Creating and Naming Vectors<br/>
- > Vector Arithmetic<br/>
+ > &#x2611; Creating and Naming Vectors<br/>
+ > &#x2611; Vector Arithmetic<br/>
  > Vector sub setting,<br/>
  
 -<b> Matrices: <br/>
- > Creating and Naming Matrices<br/>
+ > &#x2611; Creating and Naming Matrices<br/>
  > Matrix Sub setting<br/>
  > Arrays, Class.<br/>
  
