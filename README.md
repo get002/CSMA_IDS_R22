@@ -1,5 +1,7 @@
 # Notes: 
 <ul>
+  <li>Unit 03 Part 01</li>
+  [Unit 03 Part 01](https://drive.google.com/file/d/1oDAQgyhA7-Z83M9YGBWMPZaJc4TSC4oP/view?usp=sharing)<br/>
 <li> [Unit 03 Part 01](https://drive.google.com/file/d/1oDAQgyhA7-Z83M9YGBWMPZaJc4TSC4oP/view?usp=sharing)</li>
 <li> [Unit 03 Part 02](https://drive.google.com/file/d/1arc4dsujRrZT_ivUJqG69zUBn6P4Vo3b/view?usp=sharing)</li>
 <li> [Unit 04](https://drive.google.com/file/d/1YVE1P1lSKtWX4jzK1WEpFpkPihsWKvmG/view?usp=sharing)</li>
