@@ -1,4 +1,4 @@
- ## Notes &#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595;&#8595; <br/>
+ ## Notes &#8595;&#8595;&#8595;&#8595; <br/>
 > ###  click for &#8594; [Unit 03 Part 01](https://drive.google.com/file/d/1oDAQgyhA7-Z83M9YGBWMPZaJc4TSC4oP/view?usp=sharing)<br/>
 > ###  click for &#8594; [Unit 03 Part 02](https://drive.google.com/file/d/1arc4dsujRrZT_ivUJqG69zUBn6P4Vo3b/view?usp=sharing)<br/>
 > ###  click for &#8594; [Unit 04](https://drive.google.com/file/d/1YVE1P1lSKtWX4jzK1WEpFpkPihsWKvmG/view?usp=sharing)<br/>
