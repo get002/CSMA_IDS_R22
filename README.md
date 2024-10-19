@@ -52,17 +52,17 @@
  > Arrays, Class.<br/>
  
 -<b> Factors and Data Frames: <br/>
- > Introduction to Factors<br/>
- > Factor Levels, Summarizing a Factor<br/>
- > Ordered Factors, Comparing Ordered Factors<br/>
- > Introduction to Data Frame<br/>
- > subsetting of Data Frames<br/>
- > Extending Data Frames, Sorting Data Frames.<br/>
+ > &#x2611; Introduction to Factors<br/>
+ > &#x2611; Factor Levels, Summarizing a Factor<br/>
+ > &#x2611; Ordered Factors, Comparing Ordered Factors<br/>
+ > &#x2611; Introduction to Data Frame<br/>
+ > &#x2611; subsetting of Data Frames<br/>
+ > &#x2611; Extending Data Frames, Sorting Data Frames.<br/>
  
 -<b> Lists:<br>
- > creating a List<br/>
- > Creating a Named List<br/>
- > Accessing List Elements<br/>
+ > &#x2611; creating a List<br/>
+ > &#x2611; Creating a Named List<br/>
+ > &#x2611; Accessing List Elements<br/>
  > Manipulating List<br/>
  > Elements, Merging Lists<br/>
  > Converting Lists to Vectors<br/>
