@@ -56,8 +56,8 @@
  
 -<b> Matrices: <br/>
  > &#x2611; Creating and Naming Matrices<br/>
- > Matrix Sub setting<br/>
- > Arrays, Class.<br/>
+ > &#x2611; Matrix Sub setting<br/>
+ > &#x2611; Arrays, Class.<br/>
  
 -<b> Factors and Data Frames: <br/>
  > &#x2611; Introduction to Factors<br/>
@@ -78,11 +78,11 @@
 ## Unit 04<br/>
 
 -<b> Conditionals and Control Flow<br/>
- > Relational Operators<br/>
- > Relational Operators and Vectors<br/>
- > Logical Operators<br/>
- > Logical Operators and Vectors<br/>
- > Conditional Statements.<br/>
+ > &#x2611; Relational Operators<br/>
+ > &#x2611; Relational Operators and Vectors<br/>
+ > &#x2611; Logical Operators<br/>
+ > &#x2611; Logical Operators and Vectors<br/>
+ > &#x2611; Conditional Statements.<br/>
  
 -<b> Iterative Programming in R: Introduction<br/>
  > While Loop, For Loop, Looping Over List.<br/>
