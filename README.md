@@ -72,8 +72,8 @@
  > &#x2611; Creating a Named List<br/>
  > &#x2611; Accessing List Elements<br/>
  > Manipulating List<br/>
- > Elements, Merging Lists<br/>
- > Converting Lists to Vectors<br/>
+ > &#x2611;  Elements, Merging Lists<br/>
+ > &#x2611;  Converting Lists to Vectors<br/>
 
 ## Unit 04<br/>
 
@@ -85,14 +85,14 @@
  > &#x2611; Conditional Statements.<br/>
  
 -<b> Iterative Programming in R: Introduction<br/>
- > While Loop, For Loop, Looping Over List.<br/>
+ > &#x2611;  While Loop, For Loop, Looping Over List.<br/>
  
 -<b> Functions in R: Introduction<br/>
- > writing a Function in R<br/>
- > Nested Functions, Function Scoping<br/>
- > Recursion<br/>
- > Loading an R Package<br/>
- > Mathematical Functions in R.<br/>
+ > &#x2611;  writing a Function in R<br/>
+ > &#x2611;  Nested Functions, Function Scoping<br/>
+ > &#x2611;  Recursion<br/>
+ > &#x2611;  Loading an R Package<br/>
+ > &#x2611;  Mathematical Functions in R.<br/>
   
 ## Unit 05<br/>
 
